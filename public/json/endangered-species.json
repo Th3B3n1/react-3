@@ -1,0 +1,34 @@
+{
+  "endangeredSpecies": [
+    {
+      "id": 1,
+      "name": "Óriáspanda",
+      "habitat": "Kína",
+      "threatLevel": "Veszélyeztetett"
+    },
+    {
+      "id": 2,
+      "name": "Tigris",
+      "habitat": "Ázsia",
+      "threatLevel": "Kritikusan veszélyeztetett"
+    },
+    {
+      "id": 3,
+      "name": "Jegesmedve",
+      "habitat": "Sarkvidék",
+      "threatLevel": "Veszélyeztetett"
+    },
+    {
+      "id": 4,
+      "name": "Gorilla",
+      "habitat": "Közép-Afrika",
+      "threatLevel": "Kritikusan veszélyeztetett"
+    },
+    {
+      "id": 5,
+      "name": "Kék bálna",
+      "habitat": "Óceánok",
+      "threatLevel": "Veszélyeztetett"
+    }
+  ]
+}
